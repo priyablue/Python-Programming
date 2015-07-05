@@ -1,0 +1,1 @@
+I am using ‘Python Programming for the absolute beginner’ book by Michael Dawson to teach myself python. These are my solutions to the challenges at the end of each chapter.
